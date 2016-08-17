@@ -1,0 +1,3 @@
+<launch>
+	<node name="simon_node1" pkg="simontest" type="simon_node1" /> 	
+</launch>
