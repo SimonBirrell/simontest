@@ -24,3 +24,15 @@ And here is how to launch it as a node:
 ```
 
 For more details and step-by-step explanations, see http://www.artificialhumancompanions.com/structure-python-based-ros-package/.
+
+NOTE: (9th December 2023)
+The code has changed slightly for Python3 (relative imports and print with parentheses). You can access either from the two branches:
+```
+git checkout ros-python2
+git checkout ros-python3
+```
+
+The master branch remains the historic Python 2 version, for the moment.
+
+
+
